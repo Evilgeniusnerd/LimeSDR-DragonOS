@@ -15,6 +15,7 @@ Once you have booted GNU, open the lora_RX.grc file provided above.
 
 ![image](https://github.com/TrevorCE/LimeSDR-DragonOS/assets/124105630/f125a639-0999-4f61-8ca5-a8d0653c2d1c)
 ![image](https://github.com/TrevorCE/LimeSDR-DragonOS/assets/124105630/5dbe2ad5-ff17-423a-9977-afb71d705c72)
-![image](https://github.com/TrevorCE/LimeSDR-DragonOS/assets/124105630/6aedbaf9-67f9-4b8d-b3a2-9207e8d51c76)
-![image](https://github.com/TrevorCE/LimeSDR-DragonOS/assets/124105630/a2055722-e79b-4e70-b23d-8ed8fe7fe9f9)
-![image](https://github.com/TrevorCE/LimeSDR-DragonOS/assets/124105630/1afb49f9-a5d7-4e74-89cd-1107a8b88a3c)
+Execute the flowchart. When you see "Press Enter to quit:" Send a packet through your Duck. 
+
+![image](https://github.com/TrevorCE/LimeSDR-DragonOS/assets/124105630/e419b7a8-bcf9-4a92-8d3e-cfaf0d123414)
+
